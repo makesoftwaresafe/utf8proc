@@ -2,7 +2,7 @@
 
 ## Version 2.11.3 ##
 
-2025-12-21
+2025-12-30
 
 - Correct out-of-bounds memory access when calling `utf8proc_map` with both `UTF8PROC_CHARBOUND` and `UTF8PROC_COMPOSE` ([#323]).
 
@@ -490,3 +490,4 @@ Release of version 1.0.1
 [#295]: https://github.com/JuliaStrings/utf8proc/issues/295
 [#311]: https://github.com/JuliaStrings/utf8proc/issues/311
 [#317]: https://github.com/JuliaStrings/utf8proc/issues/317
+[#323]: https://github.com/JuliaStrings/utf8proc/issues/323
